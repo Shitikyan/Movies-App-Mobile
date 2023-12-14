@@ -1,0 +1,9 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "html.format.templating": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": null,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
